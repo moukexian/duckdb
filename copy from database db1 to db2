@@ -1,0 +1,3 @@
+"copy from database db1 to db2" notice error!
+I want copy db1 to db2 (type mysql).always error:Out of memory (Needed 698144096 bytes) : MySQL client ran out of memory
+please help me!
